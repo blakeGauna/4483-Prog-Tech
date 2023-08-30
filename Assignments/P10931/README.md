@@ -8,9 +8,9 @@ This simple program is the solution for Parity. It counts the number of 1's in a
 
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
-|   1   | [main.cpp](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/P00272/main.cpp)         | Main file for Tex Quotes.      |
-|   2   | [data.txt](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/P00272/data.txt)  | Sample data for Tex Quotes         |
-|   3   | [p10055.pdf](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/P00272/p00272.pdf) | Picture of Tex Quotes instructions |
+|   1   | [main.cpp](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/P10931/main.cpp)         | Main file for Parity.      |
+|   2   | [data.txt](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/P10931/data.txt)  | Sample data for Parity         |
+|   3   | [p10055.pdf](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/P10931/p10931.pdf) | Picture of Parity instructions |
 
 ### Instructions
 
