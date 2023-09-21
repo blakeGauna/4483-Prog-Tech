@@ -8,9 +8,9 @@ This simple program is the solution for hashmat. It takes two numbers and displa
 
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
-|   1   | [main.cpp](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/P10055/main.cpp)         | Main file for hashmat.      |
-|   2   | [data.txt](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/P10055/data.txt)  | Sample data for hashmat         |
-|   3   | [p10055.pdf](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/P10055/p10055.pdf) | Picture of hashmat instructions |
+|   1   | [main.cpp](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/AO3/main.cpp)         | Main file for hashmat.      |
+|   2   | [data.txt](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/AO3/data.txt)  | Sample data for hashmat         |
+|   3   | [p10055.pdf](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/AO3/p10055.pdf) | Picture of hashmat instructions |
 
 ### Instructions
 
