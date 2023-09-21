@@ -9,9 +9,9 @@ keeps track of how many of each there are using a map.
 
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
-|   1   | [main.cpp](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/P10226/main.cpp)         | Main file for Hardwood Species.      |
-|   2   | [data.txt](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/P10226/data.txt)  | Sample data for Hardwood Species         |
-|   3   | [p10226.pdf](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/P10226/10226.pdf) | Picture of Hardwood Species instructions |
+|   1   | [main.cpp](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/AO6/main.cpp)         | Main file for Hardwood Species.      |
+|   2   | [data.txt](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/AO6/data.txt)  | Sample data for Hardwood Species         |
+|   3   | [p10226.pdf](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/AO6/10226.pdf) | Picture of Hardwood Species instructions |
 
 ### Instructions
 
