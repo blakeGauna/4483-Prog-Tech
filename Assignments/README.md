@@ -8,3 +8,4 @@
 |   4   |     [AO5 - P161](https://github.com/blakeGauna/4483-Prog-Tech/tree/main/Assignments/AO5)        |         Traffic Lights            |
 |   5   |     [AO6 - P10226](https://github.com/blakeGauna/4483-Prog-Tech/tree/main/Assignments/AO6)        |        Hardwood Species           |
 |   6   |     [AO7 - P514](https://github.com/blakeGauna/4483-Prog-Tech/tree/main/Assignments/AO7)        |        Rails           |
+|   7   |     [AO10 - P12160](https://github.com/blakeGauna/4483-Prog-Tech/tree/main/Assignments/AO10)        |        Unlock the Lock           |
