@@ -9,9 +9,9 @@ within them. For example:  [3, 9] is 3 + 5 + 7 + 9 = 24. This is a simple looped
 
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
-|   1   | [main.cpp](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/P10931/main.cpp)         | Main file for Parity.      |
-|   2   | [data.txt](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/P10931/data.txt)  | Sample data for Parity         |
-|   3   | [p10055.pdf](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/P10931/p10931.pdf) | Picture of Parity instructions |
+|   1   | [main.cpp](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/AO4%20-%20P10783/main.cpp)         | Main file for Odd Sum.      |
+|   2   | [input.txt](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/AO4%20-%20P10783/input.txt)  | Sample data for Odd Sum        |
+|   3   | [p10783.pdf](https://github.com/blakeGauna/4483-Prog-Tech/blob/main/Assignments/AO4%20-%20P10783/p10783.pdf) | Picture of Odd Sum instructions |
 
 ### Instructions
 
